@@ -1,5 +1,4 @@
 venv/
 .env
 __pychace__/
-*__pychace__
 .DS_Store
