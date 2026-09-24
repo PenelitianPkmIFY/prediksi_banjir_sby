@@ -1,8 +1,0 @@
-joblib
-numpy
-pandas
-streamlit
-tsaug
-sklearn
-matplotlib.pyplot
-Counter
